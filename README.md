@@ -2,9 +2,11 @@
 # SSTV-Based IoT Data Acquisition and Analytics for remote regions
 
 ## Team Members
-* Anshuman Phadke – 19BEC0428
-* Anirudh Karnik – 19BEC0353
-* Arvind N – 19BEC0564
+* Anshuman Phadke (19BEC0428)
+* Anupam Kumar (19BEC0211)
+* Shiv Thomas (19BEC0205)
+* Noble Thomas (19BEC195)
+
 
 # Project Description
 
@@ -127,6 +129,3 @@ https://thingspeak.com/channels/1578749
   <img src="reception_images\thingspeak_channel.png">
 </p>
  
-## Video Demonstration
-
-https://drive.google.com/drive/u/1/folders/1sVIIqHa9b1y_xpHrPC9CtE0m2hM2E_ia
