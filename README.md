@@ -5,7 +5,7 @@
 * Anshuman Phadke (19BEC0428)
 * Anupam Kumar (19BEC0211)
 * Shiv Thomas (19BEC0205)
-* Noble Thomas (19BEC195)
+* Noble Thomas (19BEC0195)
 
 
 # Project Description
@@ -129,3 +129,5 @@ https://thingspeak.com/channels/1578749
   <img src="reception_images\thingspeak_channel.png">
 </p>
  
+ ## Video 
+https://drive.google.com/drive/u/1/folders/1sVIIqHa9b1y_xpHrPC9CtE0m2hM2E_ia
