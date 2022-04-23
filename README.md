@@ -45,6 +45,20 @@ pip install pillow
 </p>
 <br>
 
+
+## Flowchart
+<p align="center">
+  <img src="Flow.png">
+</p>
+<br>
+
+
+## Roadmap
+<p align="center">
+  <img src="Roadmap.png">
+</p>
+<br>
+
 ## Upload the following code to the Arduino Uno Board
 ```
 data_fetch_sstv.ino
