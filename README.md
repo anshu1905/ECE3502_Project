@@ -1,12 +1,5 @@
 # SSTV-Based IoT Data Acquisition and Analytics for remote regions
 
-## Team Members
-* Anshuman Phadke (19BEC0428)
-* Anupam Kumar (19BEC0211)
-* Shiv Thomas (19BEC0205)
-* Noble Thomas (19BEC0195)
-
-
 # Project Description
 
 ## Software Used
