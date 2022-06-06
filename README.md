@@ -1,4 +1,3 @@
-# ECE3502 IoT Domain Analyst 
 # SSTV-Based IoT Data Acquisition and Analytics for remote regions
 
 ## Team Members
